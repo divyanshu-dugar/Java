@@ -11,3 +11,5 @@ Algorithms
    IDEA : We select the smallest elements and put them in the beginning
 5. Insertion Sort
    IDEA : We insert the smaller elements in their correct place just like we do while playing cards.
+6. Inbuilt Sort
+   IDEA : Using inbuilt functions in java to sort our given array in either ascending or descending order.
