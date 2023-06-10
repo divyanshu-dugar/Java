@@ -19,3 +19,8 @@ Sorting Algorithms
 Algorithms - Arrays
 
 1. Kadanes Algorithm
+
+2D Arrays
+
+1. Spiral Matrix
+2. Diagonal Sum
