@@ -1,6 +1,4 @@
 # Java
-This repository has solved questions of various different topics in Java.
-
 "My code base" 
 
 **1. ARRAYS**
