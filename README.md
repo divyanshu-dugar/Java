@@ -11,18 +11,18 @@ Q1. Second Largest Element in an array
 
 Sorting Algorithms -
 
-Q1. Bubble Sort
+1. Bubble Sort
    IDEA : We push the largest elements to the last
-Q2. Selection Sort
+2. Selection Sort
    IDEA : We select the smallest elements and put them in the beginning
-Q3. Insertion Sort
+3. Insertion Sort
    IDEA : We insert the smaller elements in their correct place just like we do while playing cards.
-Q4. Inbuilt Sort
+4. Inbuilt Sort
    IDEA : Using inbuilt functions in java to sort our given array in either ascending or descending order.
 
 **Algorithms**
 
-Q1. Kadanes Algorithm
+1. Kadanes Algorithm
 
 **2. 2D Arrays**
 
