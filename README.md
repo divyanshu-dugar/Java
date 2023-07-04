@@ -5,7 +5,7 @@ This repository has solved questions of various different topics in Java.
 
 **1. ARRAYS**
 
-Q1. Second Largest Element in an array
+1. Second Largest Element in an array
 
 **Algorithms**
 
