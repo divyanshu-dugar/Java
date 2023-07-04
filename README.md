@@ -24,5 +24,5 @@ Sorting Algorithms -
 
 **2. 2D Arrays**
 
-Q1. Spiral Matrix
-Q2. Diagonal Sum
+1. Spiral Matrix
+2. Diagonal Sum
