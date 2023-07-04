@@ -1,26 +1,30 @@
 # Java
 This repository has solved questions of various different topics in Java.
 
-My code base
+"My code base" 
+
+**1. ARRAYS**
+
+Q1. Second Largest Element in an array
 
 **Algorithms**
 
-Sorting Algorithms
+Sorting Algorithms -
 
-1. Bubble Sort
+Q1. Bubble Sort
    IDEA : We push the largest elements to the last
-3. Selection Sort
+Q2. Selection Sort
    IDEA : We select the smallest elements and put them in the beginning
-5. Insertion Sort
+Q3. Insertion Sort
    IDEA : We insert the smaller elements in their correct place just like we do while playing cards.
-6. Inbuilt Sort
+Q4. Inbuilt Sort
    IDEA : Using inbuilt functions in java to sort our given array in either ascending or descending order.
 
-Algorithms - Arrays
+**Algorithms**
 
-1. Kadanes Algorithm
+Q1. Kadanes Algorithm
 
-2D Arrays
+**2. 2D Arrays**
 
-1. Spiral Matrix
-2. Diagonal Sum
+Q1. Spiral Matrix
+Q2. Diagonal Sum
